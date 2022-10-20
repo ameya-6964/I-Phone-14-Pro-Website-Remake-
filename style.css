@@ -12,6 +12,9 @@ h3,
 h4 {
   color: rgb(40, 40, 40);
 }
+html {
+  scroll-behavior: smooth;
+}
 nav {
   position: fixed;
   width: 100vw;
@@ -40,7 +43,7 @@ a {
 }
 .buy-button {
   padding: 0.2rem 2rem;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   color: white;
   background: #3056f5;
   border: none;
