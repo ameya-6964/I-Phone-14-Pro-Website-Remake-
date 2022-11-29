@@ -4,31 +4,37 @@ Website Replica Of Iphone 14 Pro with Help Of GreenSock JavaScript Library
 
 First Page
 
-![Purple Blue Illustration Digital Course Blog Banner](https://user-images.githubusercontent.com/104457295/204216095-5d2f5275-3a14-4d21-8955-c39d805a4ac4.gif)
+![First Page](https://user-images.githubusercontent.com/104457295/204477168-33ef34bf-955e-4b08-92d0-d82da1e8af9d.jpg)
 
 
 Text Glow On Focus 
 
-https://user-images.githubusercontent.com/104457295/204475545-340db209-7c8e-42bf-b75b-08bcf5d805bb.mp4
+![Text Glow](https://user-images.githubusercontent.com/104457295/204477536-36293eb3-d05c-47a2-bf21-8aeecc7f73d6.jpg)
+
 
 Split Display
 
-![Split Phones](https://user-images.githubusercontent.com/104457295/204295051-66ccee8d-3f19-4657-90d0-1738e75968db.gif)
+![Split Display](https://user-images.githubusercontent.com/104457295/204477794-c822b829-20bf-4891-a04a-48537822610b.jpg)
 
 
 Carousel Interface
 
-![Carousel](https://user-images.githubusercontent.com/104457295/204295570-617b5090-f67b-455a-847a-61bcc17296b3.gif)
+![carousel Interface](https://user-images.githubusercontent.com/104457295/204478038-3a4b053c-829b-4b82-9062-8362cd164204.jpg)
 
 
 Features Interface
 
-![Phone Features](https://user-images.githubusercontent.com/104457295/204296259-c0b6accb-9138-46ae-a74a-54432138e24a.gif)
+![Features](https://user-images.githubusercontent.com/104457295/204478454-1822fea6-638a-4bcb-befd-3376d5588623.jpg)
 
 
 Camera With Animation 
 
-![Camera](https://user-images.githubusercontent.com/104457295/204296561-432d9e45-b962-4c6a-ae08-f3397c620fa6.gif)
+![Camera](https://user-images.githubusercontent.com/104457295/204478509-2c2324ea-9e15-42e2-89d4-e855bbfed784.jpg)
+
+Full Video Of My Website
+
+
+https://user-images.githubusercontent.com/104457295/204478757-7a229729-96cf-4de3-94be-3520c2deec0f.mp4
 
 
 Thankyou For Visiting My Repository :) Hit the Follow Button
