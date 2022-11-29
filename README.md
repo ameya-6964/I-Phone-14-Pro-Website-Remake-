@@ -9,7 +9,7 @@ First Page
 
 Text Glow On Focus 
 
-![Text Glow On Focus](https://user-images.githubusercontent.com/104457295/204291695-fd8331c4-3b6a-46a3-84fa-b298bd7845e7.gif)
+https://user-images.githubusercontent.com/104457295/204472471-4b921020-4966-4eec-8c0d-d1ed089de1e1.mp4
 
 
 Split Display
